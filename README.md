@@ -12,7 +12,7 @@ Se X coisa acontecer, faça Y coisa, se não, faça Z coisa
 <img width="386" height="177" alt="image" src="https://github.com/user-attachments/assets/19f6758c-c236-47b5-b3e2-dc8278006cef" />
 <h1>Mensagem</h1>
 <img width="903" height="177" alt="image" src="https://github.com/user-attachments/assets/24d8b8ae-dc0d-4f0c-8002-6241bd1c553f" />
-<h1>Mensagem</h1>
+<h1>Se perder</h1>
 <img width="492" height="178" alt="image" src="https://github.com/user-attachments/assets/71405268-f85e-4b3b-bc10-6f7ac431ce09" />
 <H1>Se perder</H1>
 <img width="393" height="179" alt="image" src="https://github.com/user-attachments/assets/fe0f590a-af3d-458f-8fc2-252906d9486b" />
